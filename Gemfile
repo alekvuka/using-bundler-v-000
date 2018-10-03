@@ -1,4 +1,4 @@
-source "https//github.com"
+source "https://github.com"
 gem "awesome_print"
 
 source "https://rubygems.org"
