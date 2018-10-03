@@ -1,5 +1,7 @@
-source "https://github.com/awesome-print/awesome_print.git"
-gem "awesome_print"
+#source "https://github.com/awesome-print/awesome_print.git"
+#gem "awesome_print"
+
+gem 'awesome_print', :git => 'https://github.com/awesome-print/awesome_print.git'
 
 source "https://rubygems.org"
 gem "rspec"
