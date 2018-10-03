@@ -1,4 +1,9 @@
-gem "awesome_print" 
+source "github.com:awesome\-print\/awesome_print\.git"
+
+
+
+
+gem "awesome_print"
 
 source "https://rubygems.org"
 gem "rspec"
